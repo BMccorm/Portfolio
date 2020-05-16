@@ -1,9 +1,17 @@
 .masthead {
   height: 100vh;
   min-height: 500px;
-  /* background-image: url("./Bag-of-tricks-small.png"); */
+  /* background-image: url("_"); */
   /* background-size: cover; */
   /* background-position: center; */
   /* background-repeat: no-repeat; */
   background-color: darkred;
+}
+
+.card {
+  background-color: lightgrey;
+}
+
+#stickynav {
+  padding-top: 60px;
 }
