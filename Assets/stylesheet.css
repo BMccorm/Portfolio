@@ -23,10 +23,11 @@
   opacity: 0.7;
 }
 
-.btn-primary {
-  background-color: #007bb5;
-}
-
 #footer {
   font-size: 12px;
+}
+
+a,
+a:visited {
+  color: inherit;
 }
